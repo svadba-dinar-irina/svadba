@@ -1,0 +1,316 @@
+html {
+    background-color: fff7f7;
+    width: 450px;
+    margin: 0;
+    padding: 0;
+}
+body {
+    width: 100%;
+    margin: auto;
+    height: 100%;
+    color: #e7dbdb;
+}
+@font-face { 
+    font-family: "Mazurka";
+    src: url("./font/Mazurka.woff") format("woff"); 
+}
+
+/*ЦВЕТЫ*/
+.flow1 {   
+    display: block;
+    margin: -70px;
+    justify-content: center;
+    margin-top: -200px;
+    margin-bottom: 250px;
+
+}
+.flow2 {
+    margin-top: 350px;
+    margin-left: 70px;   
+}
+.flow3 {
+
+    margin-top: 70px;
+    margin-left: 50px;
+}
+.flow4 {
+    margin-left: -90px;
+}
+.flow5 {
+    margin-top: 100px;
+    margin-left: 100px;
+}
+
+/*ШАМПКА*/
+.head01 {
+    font-family: Mazurka;
+    font-size: 70px;
+    line-height: 70px;
+    margin: -100px 0 0 0;
+    justify-content: center;
+    color: rgb(0, 0, 0);
+}
+.head02 {
+    font: 16px/25px Times New Roman;
+    justify-content: center;
+    margin-top: 30px;
+    color: rgb(132, 118, 118);
+}
+.head03 {
+    font: 45px/100px Mazurka;
+    justify-content: center;
+    margin-top: -30px;
+    color: rgb(0, 0, 0);
+}
+
+
+/*ИНФОРМАЦИЯ КОГДА*/
+.inf1 {
+    font: 50px/60px Mazurka;
+    justify-content: center;
+    margin-top: 80px;
+    color: rgb(0, 0, 0);
+}
+.inf2 {
+    font: 15px/20px Times New Roman;
+    justify-content: center;
+    color: rgb(132, 118, 118);
+}
+
+
+/*МЕСТО*/
+.mesto1 {
+    font: 45px/60px Mazurka;
+    justify-content: center;
+    margin-top: 80px;
+    color: rgb(0, 0, 0);
+}
+    .vremya {
+    font: 40px/60px Mazurka ;
+    justify-content: center;
+    margin-top: -35px;
+    color: rgb(0, 0, 0);
+}
+        .mesto2 {
+    justify-content: center;
+    margin-top: -20px;
+    font-size: 18px;
+    line-height: 25px;
+    color: rgb(132, 118, 118);
+}
+.mesto01 {
+    font: 45px/60px Mazurka;
+    justify-content: center;
+    margin-top: 80px;
+    color: rgb(0, 0, 0);
+}
+    .vremya0 {
+    font: 40px/60px Mazurka;
+    justify-content: center;
+    margin-top: -35px;
+    color: rgb(0, 0, 0);
+}
+        .mesto02 {
+    justify-content: center;
+    margin-top: -20px;
+    font-size: 18px;
+    line-height: 25px;
+    color: rgb(132, 118, 118);
+}
+
+/*РАСПИСАНИЕ ДНЯ*/
+.rasp {
+    font: 50px/60px Mazurka;
+    justify-content: center;
+    color: rgb(0, 0, 0);
+}
+.lin {
+    background-image: url("./img/lin.png");
+    background-size: no-repeat;
+    margin: 200px 0 -930px 190px;
+    height: 800px;
+    width: 70px;
+}
+
+/*РАСПИСАНИЕ ДНЯ КАРТИНКИ*/
+.img1 {
+    margin-left: 90px;
+}
+    .img01 {
+    font: 30px/60px Mazurka;
+    margin: -10px 0 0 -175px;
+    justify-content: center;
+    color: rgb(0, 0, 0);
+    }   
+        .img001 {
+    font: 15px/20px Times New Roman;
+    margin: -10px 0 0 -175px;
+    justify-content: center;
+    color: rgb(132, 118, 118);    
+        }
+
+
+.img2 {
+    position: absolute;
+    margin: 10px 0 0 260px;
+}
+    .img02 {
+    font: 30px/60px Mazurka;
+    margin: 110px 0 0 170px;
+    justify-content: center;
+    color: rgb(0, 0, 0);
+    }
+        .img002 {
+    font: 15px/20px Times New Roman;
+    margin: -10px 0 0 170px;
+    justify-content: center;
+    color: rgb(132, 118, 118);    
+        }
+
+
+.img3 {
+    margin: 10px 0 0 90px;
+}
+    .img03 {
+    font: 30px/60px Mazurka;
+    margin: -10px 0 0 -175px;
+    justify-content: center;
+    color: rgb(0, 0, 0);
+    }
+        .img003 {
+    font: 15px/20px Times New Roman;
+    margin: -10px 0 0 -175px;
+    justify-content: center;
+    color: rgb(132, 118, 118);    
+        }
+
+
+.img4 {
+    position: absolute;
+    margin: 10px 0 0 260px;
+}
+    .img04 {
+    font: 30px/60px Mazurka;
+    margin: 110px 0 0 170px;
+    justify-content: center;
+    color: rgb(0, 0, 0);
+    }
+        .img004 {
+    font: 15px/20px Times New Roman;
+    margin: -10px 0 0 170px;
+    justify-content: center;
+    color: rgb(132, 118, 118);    
+        }
+
+
+.img5 {
+    margin: 10px 0 0 90px;
+}
+    .img05 {
+    font: 30px/60px Mazurka;
+    margin: -10px 0 0 -175px;
+    justify-content: center;
+    color: rgb(0, 0, 0);
+    }
+        .img005 {
+    font: 15px/20px Times New Roman;
+    margin: -10px 0 0 -175px;
+    justify-content: center;
+    color: rgb(132, 118, 118);    
+        }
+
+/*ДРЕСС КОД*/
+.dres {
+    font: 15px/23px Times New Roman;
+    margin: -30px 0 40px 0;
+
+    justify-content: center;
+    color: rgb(132, 118, 118);
+}
+.d1 {
+    margin-left: 80px;
+    border-radius: 50%;
+}
+.d2 {
+    margin-left: 5px;
+    border-radius: 50%;
+}
+.d3 {
+    margin-left: 5px;
+    border-radius: 50%;
+}
+.d4 {
+    margin-left: 5px;
+    border-radius: 50%;
+}
+.d5 {
+    margin-left: 5px;
+    border-radius: 50%;
+}
+
+/*ОПРОС*/
+
+.opros {
+    margin-top: 100px;
+    font: 30px/35px Mazurka;
+    justify-content: center;
+    color: rgb(0, 0, 0);
+}
+.opros2 {
+    font: 15px/23px Times New Roman;
+    margin: -10px 0 40px 0;
+    justify-content: center;
+    color: rgb(132, 118, 118);
+}
+
+.gol01 {
+    font: 18px/20px Times New Roman;
+    margin: 30px 0 30px 20px;
+    color: rgb(132, 118, 118);    
+}
+.gol {
+
+    margin: 0 10px 0 20px;
+    height: 15px;
+    width: 15px;
+}
+.gol2 {
+    justify-content: center;
+    font: 18px/20px Futura Pt;
+    color: rgb(132, 118, 118);    
+}
+.gol3 {
+    margin-left: 20px;
+    border-radius:5px;
+    border: 1px solid #eee;
+    transition: .3s border-color;
+    border: 1px solid #aaa;
+}
+.button {
+    border: none;
+    margin: 20px 0 0 20px;
+    padding: 10px;
+    border-radius: 100px;
+    font: 18px Futura Pt;
+    height: 60px;
+    width: 410px;
+    color: rgb(58, 51, 51);
+    background-color: rgb(194, 128, 130);
+}
+
+/*ПРОЩАНИЕ*/
+.nc1 {
+    font: 20px/25px Times New Poman;
+    justify-content: center;
+    margin-left: -90px;
+    margin-top: 200px;
+    margin-bottom: -20px;
+    color: rgb(132, 118, 118);    
+}
+.nc2 {
+    font: 40px/50px Mazurka;
+    justify-content: center;
+    margin-left: -90px;
+    margin-bottom: 50px;
+    color: rgb(0, 0, 0);    
+}
