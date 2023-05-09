@@ -282,3 +282,21 @@ body {
     margin-bottom: 50px;
     color: rgb(0, 0, 0);    
 }
+.photos {
+    margin-top: 100px;
+    margin-bottom: 20px;
+}
+
+.atext {
+    font: 17px/25px Times New Poman;
+    justify-content: center;
+    margin-top: -180px;
+    margin-bottom: 10px;
+    color: rgb(255, 255, 255);   
+}
+.btext {
+    font: 40px/35px Mazurka;
+    justify-content: center;
+    margin-left: 0px;
+    color: rgb(255, 255, 255);    
+}
